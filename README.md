@@ -1,61 +1,48 @@
-# Movie_app
+# Fitness Dashboard UI 🚀
 
-# Fitness Dashboard UI - Flutter
+![Fitness Dashboard UI](./assets/fitness_dashboard.jpg)
 
-![Fitness Dashboard UI](./path-to-your-image.jpg)
-
-## 🚀 Introduction
-A **modern and professional** Fitness Dashboard UI built using **Flutter & GetX**, designed with a dark theme and responsive layout for **mobile, tablet, and web**.
+## 📌 Overview
+A modern and sleek **Fitness Dashboard UI** built with **Flutter**. This dashboard provides essential fitness insights with an elegant dark theme, making it visually appealing and user-friendly.
 
 ## ✨ Features
-- 🔥 **Modern UI** with dark theme and neumorphic elements
-- 📊 **Interactive Charts** using `fl_chart`
-- 📱 **Fully Responsive** (Mobile, Tablet, Web)
-- ⚡ **State Management with GetX**
-- 🎨 **Custom Animations & Transitions**
-- 📂 **Clean & Modular Code Structure**
-- 🖼️ **Image Integration** (Includes custom preview image)
+✅ **Dark Mode UI** for a stylish look 🎨  
+✅ **Graphical Representation** of fitness stats 📊  
+✅ **Activity Tracking** (Steps, Calories, Distance, Sleep) 🏃‍♂️💤  
+✅ **Fully Responsive** (Mobile, Tablet, and Web) 📱💻  
+✅ **Smooth Animations & Transitions** 🚀  
+✅ **Modular & Clean Code Structure** 🧑‍💻  
 
 ## 🛠️ Tech Stack
-- **Flutter** (Dart)
-- **GetX** (State Management)
-- **FL Chart** (For Graphs & Statistics)
-- **Custom UI Widgets**
-- **Neumorphic Design**
+- **Flutter** 🦋
+- **GetX** for State Management ⚡
+- **Custom UI Components** 🎨
+- **Google Fonts & Icons** 🔤
+- **Chart Packages** for Analytics 📈
 
 ## 📸 Screenshots
-![Dashboard Preview](./path-to-your-image.jpg)
+| Mobile View | Tablet View | Web View |
+|-------------|------------|----------|
+| ![Mobile](./assets/mobile_view.jpg) | ![Tablet](./assets/tablet_view.jpg) | ![Web](./assets/web_view.jpg) |
 
-## 🚀 Installation Guide
-1. Clone the repository:
+## 🚀 Installation & Setup
+1. **Clone the repository**
    ```sh
-   git clone https://github.com/yourusername/fitness-dashboard-ui.git
+   git clone https://github.com/your-username/fitness-dashboard.git
+   cd fitness-dashboard
    ```
-2. Change to the project directory:
-   ```sh
-   cd fitness-dashboard-ui
-   ```
-3. Install dependencies:
+2. **Install dependencies**
    ```sh
    flutter pub get
    ```
-4. Run the app:
+3. **Run the app**
    ```sh
    flutter run
    ```
 
-## 📌 How to Use
-- Track fitness progress
-- View **steps, calories, and sleep analysis**
-- Navigate easily through a modern **dashboard UI**
-- View **scheduled workouts**
+## 💡 Contribution
+Feel free to fork this repo, raise issues, or submit PRs! 🚀🔥
 
-## 🤝 Contributing
-Contributions are welcome! Feel free to open an issue or submit a pull request.
-
-## 📜 License
-This project is **open-source** and available under the MIT License.
-
----
-🚀 **Developed by [Your Name]** | 💻 Flutter Enthusiast 🎯
+## 📩 Contact
+For any queries, reach out: **muhammadadreesnazir@example.com**
 
