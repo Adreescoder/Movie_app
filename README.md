@@ -1,6 +1,8 @@
 # Fitness Dashboard UI 🚀
 
-![Fitness Dashboard UI](./assets/fitness_dashboard.jpg)
+![Fitness Dashboard UI]
+![309485862-a34f073e-79c4-4dea-991d-bba6060bc9a8](https://github.com/user-attachments/assets/6a1e7ecf-b139-4d6a-9c27-e92864f17bf9)
+
 
 ## 📌 Overview
 A modern and sleek **Fitness Dashboard UI** built with **Flutter**. This dashboard provides essential fitness insights with an elegant dark theme, making it visually appealing and user-friendly.
@@ -44,5 +46,5 @@ A modern and sleek **Fitness Dashboard UI** built with **Flutter**. This dashboa
 Feel free to fork this repo, raise issues, or submit PRs! 🚀🔥
 
 ## 📩 Contact
-For any queries, reach out: **muhammadadreesnazir@example.com**
+For any queries, reach out: **adreesking975@gmail.com**
 
