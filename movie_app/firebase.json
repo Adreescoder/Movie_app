@@ -1,0 +1,38 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "wavy-4fbdf",
+          "appId": "1:40483556432:android:65b537ad68f26aeaa2d555",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "wavy-4fbdf",
+          "configurations": {
+            "android": "1:40483556432:android:65b537ad68f26aeaa2d555",
+            "ios": "1:40483556432:ios:926e57382559c189a2d555",
+            "web": "1:40483556432:web:75c2a6725f127609a2d555"
+          }
+        }
+      }
+    }
+  },
+  "hosting": {
+    "public": "build/web",
+    "site" : "AiHubMovie",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ],
+    "rewrites": [
+      {
+        "source": "**",
+        "destination": "/index.html"
+      }
+    ]
+  }
+}

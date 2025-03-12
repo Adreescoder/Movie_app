@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "40483556432",
+    "project_id": "wavy-4fbdf",
+    "storage_bucket": "wavy-4fbdf.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:40483556432:android:3119e3a4d84da2f7a2d555",
+        "android_client_info": {
+          "package_name": "com.example.wavyapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhpu61rgdjKIUYwiiIhLoH2z0Haz3w-44"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:40483556432:android:65b537ad68f26aeaa2d555",
+        "android_client_info": {
+          "package_name": "com.pak_view.movie_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhpu61rgdjKIUYwiiIhLoH2z0Haz3w-44"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
