@@ -67,6 +67,3 @@ class _SideMenuWidgetState extends State<SideMenuWidget> {
   }
 }
 /// very smart you vil
-/// very smart you vil/// very smart you vil
-/// very smart you vil/// very smart you vil
-/// very smart you vil
